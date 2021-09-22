@@ -6,3 +6,5 @@ Mostly I like more low-level languages such as assembly and C, as they provde a 
 any other high-level language. Moreoever, they can support your intetion to understand how actually everything works.
 
 Also, I like eating delicious food and watching films, drinking coca-cola.
+
+abracadabra
